@@ -24,7 +24,7 @@
 }
 
 .datagrid table thead th {
-    background-color: #b52f2b;
+    background-color: #b51e18;
     margin: 13px;
     color: white;
     border-left: 1px solid #00000014;
@@ -77,7 +77,7 @@ h3 {
     transition: box-shadow 0.2s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.2s;
     box-shadow: 0 7px 10px 0 rgba(0, 0, 0, 0.2);
     border-color: transparent;
-    background-color: #2f918b;
+    background-color: #b51e18;
     outline: none;
     text-align: center;
     font-size: 36px;
@@ -90,7 +90,7 @@ h3 {
 }
 .btn-add:active {
     box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.26);
-    background-color: #297b75;
+    background-color: #b51e18;
     transition:all .3s ease-in-out;
 }
 
@@ -166,7 +166,7 @@ h3 {
     font-size: 18px;
     border-width: 1px;
     border-color:  transparent;
-    color: #25726b;
+    color: #b51e18;
     border-radius: 15px;
     outline: none;
 }
@@ -175,14 +175,14 @@ h3 {
     transition: border-color 0.2s;
 }
 .btn-cancel:active {
-    background-color: #25726b;
+    background-color: #b51e18;
     transition: background-color 0.2s;
     border-color: transparent;
     color: #ffffff;
 }
 
 .btn-apply {
-    background-color: #3bb5ae;
+    background-color: #b52f2b;
     color: #ffffff;
     font-size: 18px;
     border-color: transparent;
@@ -192,12 +192,12 @@ h3 {
     box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.2);
 }
 .btn-apply:hover {
-    background-color: #31968e;
+    background-color: #b52f2b;
     transition:all .3s ease-in-out;
     box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.26);
 }
 .btn-apply:active {
-    background-color: #25726b;
+    background-color: #7b0d07;
     transition: all .3s ease-in-out;
     box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.0);
 }
@@ -225,7 +225,7 @@ input, textarea, select {
 }
 
 .button-index {
-    background-color: #3bb5ae;
+    background-color: #b52f2b;
     color: #fff;
     padding: 30px 0 30px 0;
     width:300px;
@@ -239,14 +239,14 @@ input, textarea, select {
 }
 
 .button-index:hover, .button-query:hover {
-    background-color: #4cae4c;
+    background-color: #7b0d07;
     transition:all .3s ease-in-out;
     box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.26);
     cursor: pointer;
 }
 
 .button-index:active, .button-query:active {
-    background-color: #6972a2;
+    background-color: #b52f2b;
     transition: all .3s ease-in-out;
     box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.0);
 }
@@ -266,7 +266,7 @@ input, textarea, select {
     font-size: 18pt;
 }
 .button-query {
-    background-color: #A3B0FF;
+    background-color: #b52f2b;
     color: #fff;
     padding: 0 20px;
     border-radius: 12px;
