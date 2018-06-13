@@ -5,7 +5,7 @@
 
     <groupId>voblaweb</groupId>
     <artifactId>photo</artifactId>
-    <versgition>0.0.1-SNAPSHOT</versgition>
+    <versgition>0.0.2-SNAPSHOT</versgition>
     <packaging>jar</packaging>
 
     <name>photo</name>
